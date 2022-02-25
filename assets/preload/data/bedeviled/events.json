@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 2.3,
+		"stage": "stagec",
+		"player1": "bf-corrupt",
+		"player2": "dad-1",
+		"player3": null,
+		"events": [
+			[
+				96000,
+				[
+					[
+						"Change Character",
+						"1",
+						"dad-1alt"
+					],
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-alt"
+					]
+				]
+			],
+			[
+				136000,
+				[
+					[
+						"Change Character",
+						"1",
+						"dad-1"
+					],
+					[
+						"Alt Idle Animation",
+						"dad",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-1",
+		"bpm": 120,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Bedeviled"
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				19
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Dad Sing NOTE RIGHT WeakenEmpty",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				7
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT WeakenEmpty",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				47
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Dad Sing NOTE UP WeakenEmpty",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-5
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Dad Sing Note DOWN WeakenEmpty",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Dad idle dance WeakenEmpty",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/familiar/dad-6-3fuck",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dadgf3alt",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

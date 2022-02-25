@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				404
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Mom Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				198
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "MOM DOWN POSE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				467
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Mom Up Pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				126,
+				391
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Mom Pose Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				392
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Mom Left Pose",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/familiar/mom-6",
+	"position": [
+		0,
+		310
+	],
+	"healthicon": "corruptmom",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		40,
+		100
+	],
+	"camera_position": [
+		40,
+		-250
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

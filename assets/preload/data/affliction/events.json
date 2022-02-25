@@ -1,0 +1,259 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "stagec",
+		"player1": "bf-corrupt",
+		"player2": "dad-2",
+		"player3": null,
+		"events": [
+			[
+				12000,
+				[
+					[
+						"CameraZoomStuff",
+						"1.1",
+						"1.5"
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"CameraZoomStuff",
+						"0.8",
+						"1.5"
+					]
+				]
+			],
+			[
+				40500,
+				[
+					[
+						"Change Character",
+						"1",
+						"dad-2-1"
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Change Character",
+						"1",
+						"dad-2"
+					]
+				]
+			],
+			[
+				72000,
+				[
+					[
+						"Change Character",
+						"1",
+						"dad-2-1"
+					]
+				]
+			],
+			[
+				78000,
+				[
+					[
+						"CameraZoomStuff",
+						"1.1",
+						"1.5"
+					]
+				]
+			],
+			[
+				81000,
+				[
+					[
+						"CameraZoomStuff",
+						"0.8",
+						"1.5"
+					]
+				]
+			],
+			[
+				85500,
+				[
+					[
+						"Change Character",
+						"1",
+						"dad-2"
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Change Character",
+						"1",
+						"dad-2alt"
+					],
+					[
+						"Change Character",
+						"2",
+						"gf-2alt"
+					]
+				]
+			],
+			[
+				102000,
+				[
+					[
+						"Change Character",
+						"1",
+						"dad-2"
+					],
+					[
+						"Change Character",
+						"2",
+						"gf-2"
+					]
+				]
+			],
+			[
+				108000,
+				[
+					[
+						"Change Character",
+						"1",
+						"dad-2-1alt"
+					],
+					[
+						"Change Character",
+						"2",
+						"gf-2alt"
+					]
+				]
+			],
+			[
+				120000,
+				[
+					[
+						"Change Character",
+						"1",
+						"dad-2-1"
+					],
+					[
+						"Change Character",
+						"2",
+						"gf-2"
+					]
+				]
+			],
+			[
+				126000,
+				[
+					[
+						"Change Character",
+						"1",
+						"dad-2"
+					]
+				]
+			],
+			[
+				127500,
+				[
+					[
+						"Change Character",
+						"1",
+						"dad-2alt"
+					],
+					[
+						"Change Character",
+						"2",
+						"gf-2alt"
+					]
+				]
+			],
+			[
+				133500,
+				[
+					[
+						"Change Character",
+						"1",
+						"dad-2-1alt"
+					]
+				]
+			],
+			[
+				150000,
+				[
+					[
+						"CameraZoomStuff",
+						"1.1",
+						"1.5"
+					]
+				]
+			],
+			[
+				162000,
+				[
+					[
+						"CameraZoomStuff",
+						"1.3",
+						"1.5"
+					]
+				]
+			],
+			[
+				168000,
+				[
+					[
+						"CameraZoomStuff",
+						"0.9",
+						"1.5"
+					]
+				]
+			],
+			[
+				174000,
+				[
+					[
+						"Change Character",
+						"1",
+						"dad-2alt"
+					],
+					[
+						"CameraZoomStuff",
+						"1.1",
+						"1.5"
+					]
+				]
+			],
+			[
+				178500,
+				[
+					[
+						"Change Character",
+						"1",
+						"dad-2"
+					],
+					[
+						"Change Character",
+						"2",
+						"gf-2"
+					],
+					[
+						"CameraZoomStuff",
+						"0.8",
+						"1.5"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-2",
+		"bpm": 160,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Affliction"
+	}
+}

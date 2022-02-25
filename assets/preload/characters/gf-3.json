@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BGF Note RIGHTPissed"
+		},
+		{
+			"offsets": [
+				-7,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BGF Note DOWNPissed"
+		},
+		{
+			"offsets": [
+				2,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BGF Note UPPissed"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				-14
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BGF Note LEFTPissed",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-6
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "BGF IdlePissed",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-6,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "BGF IdlePissed"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/familiar/gf-6-3",
+	"position": [
+		70,
+		200
+	],
+	"healthicon": "gf",
+	"flip_x": true,
+	"healthbar_colors": [
+		165,
+		0,
+		57
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

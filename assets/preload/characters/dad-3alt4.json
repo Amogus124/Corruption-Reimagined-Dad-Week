@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				19
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "CDad Sing NOTE RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				7
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "CDad Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				47
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "CDad Sing NOTE UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-5
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "CDad Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "CDad Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/familiar/dad-6-3alt4",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dadgf3alt",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

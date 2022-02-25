@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"Bedeviled",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Affliction",
+			"dadgf",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Familiar-Finale",
+			"dadgf-2",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stagec",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Two Left.",
+	"weekName": "Vs. Two Left.",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

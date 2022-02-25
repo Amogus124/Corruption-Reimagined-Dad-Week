@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-8,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BGF Note RIGHTCorrupt1"
+		},
+		{
+			"offsets": [
+				-7,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BGF Note DOWNCorrupt1"
+		},
+		{
+			"offsets": [
+				4,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BGF Note UPCorrupt1"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BGF Note LEFTCorrupt1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-6
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "BGF IdleCorrupt1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-6,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "BGF IdleCorrupt1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/familiar/gf-6-3alt",
+	"position": [
+		70,
+		200
+	],
+	"healthicon": "gf",
+	"flip_x": true,
+	"healthbar_colors": [
+		165,
+		0,
+		57
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
